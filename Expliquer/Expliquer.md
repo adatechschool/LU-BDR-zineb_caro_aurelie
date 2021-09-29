@@ -13,9 +13,9 @@
     
     * Cardinalité : une occurence est un cas réel de l'entité. La cardinalité exprime le nombre de participation d'une occurence d'une entité dans une relation
     
-    * Jointure
+    * Jointure : association d'entités dans une requête SQL pour sélectionner un résultat particulier.
     
-    * Normalisation
+    * Normalisation : convention d'organisation des données (par exemple : une donnée n'apparaît qu'à un seul endroit).
     
-    * CRUD
+    * CRUD : CREATE - READ - UPDATE - DELETE
 
